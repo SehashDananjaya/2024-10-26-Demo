@@ -1,0 +1,29 @@
+h2 {
+    color: blue;
+}
+
+p {
+    background-color: rgb(87, 216, 109);
+}
+
+.p{
+    background-color: rgb(154, 144, 230);
+    padding: 50px;
+}
+
+.margin1{
+    margin: 50px;
+}
+
+
+
+#p{
+    background-color: cadetblue;
+}
+
+body{
+    background-image: url(../img/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
